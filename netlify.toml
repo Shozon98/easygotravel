@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://ais-dev-djxkekzaxdha76neaigcf3-598475530433.asia-east1.run.app/api/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
